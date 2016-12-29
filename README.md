@@ -11,6 +11,12 @@ Module can be downloaded in Downloads section above. Distribution packages are z
 
 Selected wiki pages:
 
+Installation - https://github.com/dominikcebula/activationbymail/wiki/Installation
+
+Module Customisation - https://github.com/dominikcebula/activationbymail/wiki/ModuleCustomization
+
+How It Works - https://github.com/dominikcebula/activationbymail/wiki/HowItWorks
+
 Installation
 Module customization
 How it works
