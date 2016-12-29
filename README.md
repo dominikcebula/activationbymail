@@ -7,7 +7,8 @@ This module covers this issue and delivers missing functionality.
 
 Download info
 
-Module can be downloaded in Downloads section above. Distribution packages are zip files named using pattern activationbymail_YYYY_MM_DD.zip where YYYY - year, MM - month, DD - day of the release. Currently supported versions are Prestashop 1.2.x/1.3.x/1.5.x. Prestashop 1.4.x is not officially supported, however module for version 1.3.x may work.
+Module can be downloaded from dist section on git repository:
+https://github.com/dominikcebula/activationbymail/tree/master/dist
 
 Selected wiki pages:
 
